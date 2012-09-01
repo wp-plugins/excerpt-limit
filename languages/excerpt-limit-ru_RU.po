@@ -1,0 +1,42 @@
+# Copyright (C) 2012 Excerpt limit
+# This file is distributed under the same license as the Excerpt limit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Excerpt limit 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/excerpt-limit\n"
+"POT-Creation-Date: 2012-08-31 05:59:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-08-31 15:07+0800\n"
+"Last-Translator: WordPress User <word20112@yandex.ru>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: excerpt-limit.php:42
+msgid "Words in the excerpts of the posts of not more than"
+msgstr "Слов в анонсах статей не более"
+
+#: excerpt-limit.php:43
+msgid "Characters in the excerpts of the posts of not more than"
+msgstr "Символов в анонсах статей не более"
+
+#. Plugin Name of the plugin/theme
+msgid "Excerpt limit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://on-drupal.ru/322"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin allows you to edit the length of the excerpt (announcements) posts."
+msgstr "Плагин позволяет ограничивать длину цитат (анонсов) записей."
+
+#. Author of the plugin/theme
+msgid "YandexBot"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://on-drupal.ru"
+msgstr ""
